@@ -1,4 +1,6 @@
 # 452a
 IS452A project and stuff
-The code works but I have not added any comments so it will be a little to understand. 
+
+The code works but I have not added any comments so it will be a little difficult to understand. 
 I am simultaneously working on the documentation.
+Thank you.
