@@ -1,9 +1,7 @@
 # Credit_Card_Fraud
-IS452A project and stuff
 
-The final code has been uploaded. Proper Comments have been used.
+Instructions to run the code
 
-Instructions to run the code 
 Steps:
  
 1.	System requirements- A number of libraries are pre-installed with anaconda. The following libraries will be required to run the code and might have to be installed separately: NumPy, SciPy, Scikit-learn, imbalanced-learn, pandas, seaborn, matplotlib, xgboost. The installation of xgboost is a little problematic hence the code is attached in a different file and instruction to install xgboost on Mac OS are included at the end of the report. Since it’s a separate code, xgboost installation can be skipped and the main code can be run for results except attribute selection. 
